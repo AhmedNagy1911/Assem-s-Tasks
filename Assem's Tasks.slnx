@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CaesarCipher/CaesarCipher.csproj" Id="d13d9303-7d08-46a8-bcd7-2efca5b8de90" />
+  <Project Path="playfair/playfair.csproj" Id="128114b6-8c36-41a8-894c-ffaecde692e3" />
+  <Project Path="Vigenère/Vigenère.csproj" Id="6709bbaa-6b3c-4b15-8322-9a09cc264221" />
+</Solution>
