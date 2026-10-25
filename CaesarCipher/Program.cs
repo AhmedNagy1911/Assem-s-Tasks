@@ -23,6 +23,7 @@
 
             string result = "";
 
+            
             foreach (char c in text)
             {
                 if (char.IsUpper(c))
