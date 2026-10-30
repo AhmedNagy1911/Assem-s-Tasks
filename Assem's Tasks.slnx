@@ -1,7 +1,9 @@
 <Solution>
   <Project Path="CaesarCipher/CaesarCipher.csproj" Id="d13d9303-7d08-46a8-bcd7-2efca5b8de90" />
   <Project Path="columnar-transposition/columnar-transposition.csproj" Id="0fa3befb-29ee-4b77-95cc-5cf40e21f606" />
+  <Project Path="Hill/Hill.csproj" Id="c964f34c-192e-4f50-8bd6-6822aa8a4ae0" />
   <Project Path="one-time-pad/one-time-pad.csproj" Id="afffc790-dfb8-4d69-a9ef-e7a2f5ed820d" />
   <Project Path="playfair/playfair.csproj" Id="128114b6-8c36-41a8-894c-ffaecde692e3" />
+  <Project Path="rail-fence/rail-fence.csproj" Id="68f523ce-8d2c-4ad4-815f-26d974ddd839" />
   <Project Path="Vigenère/Vigenère.csproj" Id="6709bbaa-6b3c-4b15-8322-9a09cc264221" />
 </Solution>
